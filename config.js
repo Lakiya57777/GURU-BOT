@@ -7,15 +7,15 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94766370881', 'Lakshan', true],
-  ['94724841552', 'Lakshan', true], 
+  ['94723156909', 'Hasitha', true],
+  ['94766370881', 'Lakshan', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['94724841552','94766370881'] 
-global.prems = ['94724841552', '32460248586', '94766370881']
+global.mods = ['94723156909','94766370881'] 
+global.prems = ['94723156909', '32460248586', '94766370881']
 global.allowed = ['917605902011', '32460248586', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙻𝙰𝙺𝙸𝚈𝙰 ˢ 𝙱𝙾𝚃'
+global.botname = '𝙷𝙰𝚂𝙸𝚈𝙰 ˢ 𝙱𝙾𝚃'
 global.premium = 'true'
-global.packname = '𝗟𝗔𝗞𝗜𝗬𝗔┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = '𝗛𝗔𝗦𝗜𝗬𝗔┃ᴮᴼᵀ' 
+global.author = '@hasiyah' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
